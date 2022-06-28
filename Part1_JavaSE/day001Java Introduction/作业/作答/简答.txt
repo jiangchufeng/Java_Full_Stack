@@ -1,0 +1,31 @@
+1、java的基本数据类型有哪些？String是基本数据类型吗？
+
+java的基本数据类型有四类八种
+整数型：byte，short，int，long
+浮点型：float，double
+字符型：char
+布尔型：boolean
+
+String不是基本数据类型，String是引用数据类型。
+
+
+
+2、float f=3.4;是否正确，表达式15/2*2的值是多少？
+
+float f=3.4; 不正确，需要添加字母F，如下：
+float f=3.4F;
+
+表达式15/2*2的值是14
+
+
+
+3、char型变量中是否可以存储一个汉字？
+
+可以
+
+
+
+4、如何用最有效的方法计算2乘以8？
+
+int a = 2*8;
+sysout.a
